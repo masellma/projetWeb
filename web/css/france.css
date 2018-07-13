@@ -1,0 +1,15 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 juil. 2018, 11:51:18
+    Author     : Administrateur
+*/
+
+.styleChange{
+    height: 3vh;
+    border: double 1px rgb(51,51,51);
+    background: linear-gradient(to right, blue 0%, blue 33%, white 33%, white 66%, red 66%, red 100%);
+}

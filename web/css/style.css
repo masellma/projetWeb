@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 9 juil. 2018, 12:37:05
+    Author     : Administrateur
+*/
+.container-flex{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+}
+nav{
+    background-color: #13364B;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    transform: translate(-10px, -10px);
+}
+.logo-container{
+    height: 75px;
+    width: 75px;
+}
+.footer{
+    padding: 10px 0;
+    color: white;
+    background-color: #030917;
+    display: flex;
+    justify-content: center;
+}
+.footer a{
+    font-size: 11pt;
+    text-decoration: none;
+    color:white;
+}
+.iconRS{
+    margin-right:5px; 
+    height:30px;
+    width:30px;
+}
+#login{
+    display: flex;
+    justify-content: center;
+}
